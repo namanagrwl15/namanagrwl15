@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/naman_agrwl15" target="blank"><img src="https://img.shields.io/twitter/follow/naman_agrwl15?logo=twitter&style=for-the-badge" alt="naman_agrwl15" /></a> </p>
 <!-- <img src = "Desktop"  /> -->
-- 📫 How to reach me <a href = "namanagrawal336@gmail.com"/>
+- 📫 How to reach me **namanagrawal336@gmail.com**
 
 - ⚡ Fun fact **I like to sing and playing guitar.**
 
